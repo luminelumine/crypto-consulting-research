@@ -1,0 +1,4 @@
+interface:
+  display_name: "Crypto Consulting Research · Surf"
+  short_description: "Surf data and evidence-led crypto consulting research"
+  default_prompt: "Use $crypto-consulting-research to investigate a crypto market or protocol with live Surf data, primary sources, and a defensible counter-case."
