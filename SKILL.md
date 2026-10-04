@@ -5,7 +5,7 @@ metadata:
   version: "1.0.0"
 ---
 
-# Crypto Consulting Research — powered by Surf
+# Crypto Consulting Research
 
 Turn a crypto question into an auditable answer and, when needed, a decision-oriented consulting report. Surf is the preferred live-data tool; primary documents establish what the data means. This skill includes its own Surf workflow and needs no second installed skill.
 

@@ -1,4 +1,4 @@
-# Crypto Consulting Research · Surf
+# Crypto Consulting Research
 
 一个把 **Surf 实时数据** 和 **咨询式 Crypto 研究** 结合起来的 Agent Skill。
 
